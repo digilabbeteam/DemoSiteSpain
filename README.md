@@ -10,15 +10,15 @@ In the most general terms, the **DigiLab** project aims to create a digital plat
 
 - **DemoSiteSpain Repository**: This repository is dedicated to the Demo Site developed in Spain.
 
-- **arduino_boards**: Inside the repository, you'll find a folder containing the Arduino code for the boards installed in the Segura Valley high school.
+- **arduino_boards**: Inside the repository, you'll find the Arduino code for the boards installed in the Segura Valley high school.
 
-   - **DSS_ROOM1**: Folder for the code of the DSS_ROOM1 Arduino board.
+   - **DSS_ROOM1**: Code of the DSS_ROOM1 Arduino board.
    
-   - **DSS_ROOM2**: Folder for the code of the DSS_ROOM2 Arduino board.
+   - **DSS_ROOM2**:Code of the code of the DSS_ROOM2 Arduino board.
    
-   - **DSS_ROOM3**: Folder for the code of the DSS_ROOM3 Arduino board.
+   - **DSS_ROOM3**: Code of code of the DSS_ROOM3 Arduino board.
    
-   - **DSS_ROOM4**: Folder for the code of the DSS_ROOM4 Arduino board.
+   - **DSS_ROOM4**: Code of the code of the DSS_ROOM4 Arduino board.
  
 ## Contributions
 
